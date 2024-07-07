@@ -1,9 +1,6 @@
 # Rock_Paper_Scissors ✊✋✌️
 
 
-## Demo
-
-The game can be played on GitHub by [clicking here](https://rushithagudipudi.github.io/Rock-Paper-Scissors/)
 
 ## Installation
 
